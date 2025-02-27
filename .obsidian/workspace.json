@@ -181,14 +181,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "ce72ab478f26dd40",
   "lastOpenFiles": [
-    "tasks/389352.md",
-    "tasks/389364.md",
     "daily/2025-02-27.md",
+    "Excalidraw/Drawing 2025-02-27 17.24.29.excalidraw.md",
+    "tasks/389364.md",
+    "Excalidraw",
+    "tasks/389352.md",
     "tasks",
     "daily",
     "2025-02-27.md",
