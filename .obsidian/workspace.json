@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-02-28.md",
+                "file": "ERP/team/Paulo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-28"
+              "title": "Paulo"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ERP/code/Report.md",
+                "file": "ERP/team/Paulo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Report"
+              "title": "Backlinks for Paulo"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ERP.md",
+                "file": "ERP/team/Paulo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ERP"
+              "title": "Outgoing links from Paulo"
             }
           },
           {
@@ -142,17 +142,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2025-02-28.md",
+                "file": "ERP/team/Paulo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-02-28"
+              "title": "Outline of Paulo"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "271eb5a39dc4228b",
@@ -186,10 +185,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ce72ab478f26dd40",
+  "active": "aa4915683d810884",
   "lastOpenFiles": [
-    "ERP/team/Ismael.md",
     "daily/2025-02-28.md",
+    "ERP/team/Ismael.md",
     "ERP/team/Paulo.md",
     "daily/2025-02-27.md",
     "ERP/team/Érica.md",
