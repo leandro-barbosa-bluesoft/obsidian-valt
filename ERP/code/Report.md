@@ -1,0 +1,1 @@
+Um Report extends da classe abstrata BaseReport para prover os componentes de filtro e de dados em foma de código ao invés de desenhar componentes de frontend.
