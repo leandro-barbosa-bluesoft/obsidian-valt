@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-03-06.md",
+                "file": "tasks/392554.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-06"
+              "title": "392554"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2025-03-06.md",
+                "file": "tasks/392554.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-03-06"
+              "title": "Backlinks for 392554"
             }
           },
           {
@@ -187,8 +187,10 @@
   },
   "active": "ce72ab478f26dd40",
   "lastOpenFiles": [
-    "tasks/389364.md",
+    "daily/2025-03-07.md",
+    "ERP/team/Cadu.md",
     "daily/2025-03-06.md",
+    "tasks/389364.md",
     "tasks/338194.md",
     "daily/2025-03-05.md",
     "tasks/389352.md",
