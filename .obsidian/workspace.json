@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-03-11.md",
+                "file": "tasks/393177.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-11"
+              "title": "393177"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2025-03-11.md",
+                "file": "tasks/393177.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-03-11"
+              "title": "Backlinks for 393177"
             }
           },
           {
@@ -187,8 +187,10 @@
   },
   "active": "ce72ab478f26dd40",
   "lastOpenFiles": [
-    "daily/2025-03-06.md",
+    "daily/2025-03-13.md",
+    "tasks/393177.md",
     "daily/2025-03-11.md",
+    "daily/2025-03-06.md",
     "daily/2025-03-07.md",
     "tasks/389352.md",
     "tasks/389364.md",
@@ -217,7 +219,6 @@
     "tasks",
     "daily",
     "2025-02-27.md",
-    "Untitled.md",
-    "ERP.md"
+    "Untitled.md"
   ]
 }
