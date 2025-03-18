@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasks/393205.md",
+                "file": "tasks/394182.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "393205"
+              "title": "394182"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tasks/393205.md",
+                "file": "tasks/394182.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 393205"
+              "title": "Backlinks for 394182"
             }
           },
           {
@@ -185,10 +185,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ce72ab478f26dd40",
+  "active": "362bd9af26f29d30",
   "lastOpenFiles": [
-    "daily/2025-03-17.md",
+    "daily/2025-03-18.md",
+    "tasks/394182.md",
     "tasks/393205.md",
+    "daily/2025-03-17.md",
     "daily/2025-03-14.md",
     "tasks/393191.md",
     "tasks/393177.md",
@@ -211,8 +213,6 @@
     "daily/2025-02-27.md",
     "ERP/code/Velocity.md",
     "ERP/team/Paulo.md",
-    "ERP/team/Ismael.md",
-    "ERP/team/Rubio.md",
     "ERP/team",
     "ERP/business",
     "ERP/code",
