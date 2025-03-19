@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasks/394182.md",
+                "file": "daily/2025-03-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "394182"
+              "title": "2025-03-06"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tasks/394182.md",
+                "file": "daily/2025-03-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 394182"
+              "title": "Backlinks for 2025-03-06"
             }
           },
           {
@@ -185,23 +185,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "362bd9af26f29d30",
+  "active": "ce72ab478f26dd40",
   "lastOpenFiles": [
+    "daily/2025-03-07.md",
+    "daily/2025-03-10.md",
+    "daily/2025-03-11.md",
+    "daily/2025-03-13.md",
+    "daily/2025-03-14.md",
+    "daily/2025-03-17.md",
     "daily/2025-03-18.md",
+    "daily/2025-03-19.md",
     "tasks/394182.md",
     "tasks/393205.md",
-    "daily/2025-03-17.md",
-    "daily/2025-03-14.md",
     "tasks/393191.md",
     "tasks/393177.md",
-    "daily/2025-03-13.md",
-    "daily/2025-03-11.md",
     "daily/2025-03-06.md",
-    "daily/2025-03-07.md",
     "tasks/389352.md",
     "tasks/389364.md",
     "tasks/338194.md",
-    "daily/2025-03-10.md",
     "tasks/392554.md",
     "ERP/team/Cadu.md",
     "daily/2025-03-05.md",
@@ -212,7 +213,6 @@
     "ERP/team/Jefferson.md",
     "daily/2025-02-27.md",
     "ERP/code/Velocity.md",
-    "ERP/team/Paulo.md",
     "ERP/team",
     "ERP/business",
     "ERP/code",
