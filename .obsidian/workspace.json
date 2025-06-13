@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-06-12.md",
+                "file": "tasks/405726.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-12"
+              "title": "405726"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2025-06-12.md",
+                "file": "tasks/405726.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-06-12"
+              "title": "Outline of 405726"
             }
           }
         ],
@@ -190,11 +190,16 @@
   },
   "active": "ce72ab478f26dd40",
   "lastOpenFiles": [
+    "Pasted image 20250613113241.png",
+    "Pasted image 20250613113209.png",
+    "daily/2025-06-13.md",
+    "tasks/405726.md",
+    "Pasted image 20250613113137.png",
     "daily/2025-03-26.md",
+    "daily/2025-06-12.md",
     "daily/2025-03-20.md",
     "daily/2025-03-21.md",
     "daily/2025-03-24.md",
-    "daily/2025-06-12.md",
     "ERP/code/Report.md",
     "ERP/code/Velocity.md",
     "ERP/team/Cadu.md",
@@ -213,9 +218,6 @@
     "daily/2025-03-13.md",
     "daily/2025-03-14.md",
     "daily/2025-03-17.md",
-    "daily/2025-03-18.md",
-    "daily/2025-03-19.md",
-    "tasks/378496.md",
     "ERP/team",
     "ERP/business",
     "ERP/code",
