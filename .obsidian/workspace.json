@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ERP/code/Repositório maven nexus.md",
+                "file": "ERP/code/Task tornado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Repositório maven nexus"
+              "title": "Task tornado"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ERP/code/Repositório maven nexus.md",
+                "file": "ERP/code/Task tornado.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Repositório maven nexus"
+              "title": "Outline of Task tornado"
             }
           }
         ],
@@ -190,8 +190,11 @@
   },
   "active": "ce72ab478f26dd40",
   "lastOpenFiles": [
+    "ERP/code/Velocity.md",
+    "ERP/code/Task tornado.md",
     "ERP/code/task-apuracao-inventario.md",
     "ERP/code/Repositório maven nexus.md",
+    "ERP/code/Report.md",
     "ERP/team/Érica.md",
     "daily/2025-08-08.md",
     "tasks/378496.md",
@@ -210,15 +213,12 @@
     "daily/2025-03-20.md",
     "daily/2025-03-21.md",
     "daily/2025-03-24.md",
-    "ERP/code/Report.md",
-    "ERP/code/Velocity.md",
     "ERP/team/Cadu.md",
     "ERP/team/Ismael.md",
     "ERP/team/Jefferson.md",
     "ERP/team/Paulo.md",
     "ERP/team/Rubio.md",
     "tasks/392697.md",
-    "daily/2025-03-06.md",
     "ERP/team",
     "ERP/business",
     "ERP/code",
