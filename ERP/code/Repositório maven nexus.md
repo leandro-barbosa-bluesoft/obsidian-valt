@@ -86,7 +86,6 @@ Esta seção é usada para configurar credenciais (usuário e senha) para servid
   
 - **No seu caso**: Você tem credenciais para quatro repositórios no Nexus:
     - `nexus.releases`: Para publicar versões de lançamento (releases).
-      
     - `nexus.snapshots` / `nexus.snapshot`: Para publicar versões de desenvolvimento (snapshots).
     - `archetype`: Para um repositório de archetypes (modelos de projeto).
 
