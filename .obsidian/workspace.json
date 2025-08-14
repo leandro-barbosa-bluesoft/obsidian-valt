@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ERP/conceitos/Como o sistema faz o de-para do item do XML para o produto do ERP.md",
+                "file": "ERP/conceitos/Logs CT-e.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Como o sistema faz o de-para do item do XML para o produto do ERP"
+              "title": "Logs CT-e"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ERP/conceitos/Como o sistema faz o de-para do item do XML para o produto do ERP.md",
+                "file": "ERP/conceitos/Logs CT-e.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Como o sistema faz o de-para do item do XML para o produto do ERP"
+              "title": "Outline of Logs CT-e"
             }
           }
         ],
@@ -192,6 +192,7 @@
   "lastOpenFiles": [
     "ERP/conceitos/Figura Fiscal vs. Regra Fiscal.md",
     "ERP/conceitos/Como o sistema faz o de-para do item do XML para o produto do ERP.md",
+    "ERP/conceitos/Logs CT-e.md",
     "ERP/code/Task tornado.md",
     "ERP/conceitos",
     "ERP/code/Velocity.md",
@@ -219,7 +220,6 @@
     "ERP/team/Cadu.md",
     "ERP/team/Ismael.md",
     "ERP/team/Jefferson.md",
-    "ERP/team/Paulo.md",
     "ERP/team",
     "ERP/business",
     "ERP/code",
