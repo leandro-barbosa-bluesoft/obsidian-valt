@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7ed0d304504ec301",
+        "id": "06d9ecd9e8cdf8ef",
         "type": "tabs",
         "children": [
           {
-            "id": "ce72ab478f26dd40",
+            "id": "8647fe672034dcf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasks/411583.md",
+                "file": "ERP/onde faz/Solicitar base de produção.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "411583"
-            }
-          },
-          {
-            "id": "5e51c813442054fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ERP/sqls/Top N por quantidade de itens de pedido (aproximação).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Top N por quantidade de itens de pedido (aproximação)"
+              "title": "Solicitar base de produção"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,25 +190,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5e51c813442054fb",
+  "active": "8647fe672034dcf6",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-09-02 09.49.08.excalidraw.md",
+    "ERP/code/Velocity.md",
+    "ERP/onde faz/Solicitar base de produção.md",
+    "ERP/code/task-apuracao-inventario.md",
+    "ERP/code/Task tornado.md",
+    "ERP/code/Repositório maven nexus.md",
+    "ERP/code/Report.md",
+    "tasks/411583.md",
     "ERP/sqls/Top N por quantidade de itens de pedido (aproximação).md",
+    "Excalidraw/Drawing 2025-09-02 09.49.08.excalidraw.md",
     "ERP/sqls",
     "ERP/conceitos/Como Testar e Validar o LOCK em tabelas.md",
     "ERP/conceitos/Como o sistema faz o de-para do item do XML para o produto do ERP.md",
     "ERP/conceitos/Chave temporária em Postgres.md",
     "ERP/conceitos/Figura Fiscal vs. Regra Fiscal.md",
     "ERP/conceitos/Logs CT-e.md",
-    "tasks/411583.md",
     "ERP/onde faz/Cálculo do ICMS de frete.md",
     "ERP/onde faz",
-    "ERP/code/Task tornado.md",
     "ERP/conceitos",
-    "ERP/code/Velocity.md",
-    "ERP/code/task-apuracao-inventario.md",
-    "ERP/code/Repositório maven nexus.md",
-    "ERP/code/Report.md",
     "ERP/team/Érica.md",
     "daily/2025-08-08.md",
     "tasks/378496.md",
@@ -238,7 +224,6 @@
     "tasks/405726.md",
     "daily/2025-06-13.md",
     "daily/2025-03-26.md",
-    "daily/2025-06-12.md",
     "ERP/team",
     "ERP/business",
     "ERP/code",
