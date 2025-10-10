@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ERP/onde faz/Solicitar base de produção.md",
+                "file": "ERP/sqls/Top N por quantidade de itens de pedido (aproximação).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solicitar base de produção"
+              "title": "Top N por quantidade de itens de pedido (aproximação)"
             }
           }
         ]
@@ -192,14 +192,15 @@
   },
   "active": "8647fe672034dcf6",
   "lastOpenFiles": [
-    "ERP/code/Velocity.md",
+    "ERP/onde faz/Cálculo do ICMS de frete.md",
     "ERP/onde faz/Solicitar base de produção.md",
+    "ERP/sqls/Top N por quantidade de itens de pedido (aproximação).md",
+    "ERP/code/Velocity.md",
     "ERP/code/task-apuracao-inventario.md",
     "ERP/code/Task tornado.md",
     "ERP/code/Repositório maven nexus.md",
     "ERP/code/Report.md",
     "tasks/411583.md",
-    "ERP/sqls/Top N por quantidade de itens de pedido (aproximação).md",
     "Excalidraw/Drawing 2025-09-02 09.49.08.excalidraw.md",
     "ERP/sqls",
     "ERP/conceitos/Como Testar e Validar o LOCK em tabelas.md",
@@ -207,7 +208,6 @@
     "ERP/conceitos/Chave temporária em Postgres.md",
     "ERP/conceitos/Figura Fiscal vs. Regra Fiscal.md",
     "ERP/conceitos/Logs CT-e.md",
-    "ERP/onde faz/Cálculo do ICMS de frete.md",
     "ERP/onde faz",
     "ERP/conceitos",
     "ERP/team/Érica.md",
