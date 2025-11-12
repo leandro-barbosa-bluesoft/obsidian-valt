@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Tabelas Temporárias no Postgres"
             }
+          },
+          {
+            "id": "18219b7454b7e19e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-11-12 10.50.31.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-12 10.50.31.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,10 +203,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8647fe672034dcf6",
+  "active": "18219b7454b7e19e",
   "lastOpenFiles": [
-    "ERP/sqls/Top N por quantidade de itens de pedido (aproximação).md",
     "ERP/sqls/Tabelas Temporárias no Postgres.md",
+    "Excalidraw/Drawing 2025-11-12 10.50.31.excalidraw.md",
+    "ERP/sqls/Top N por quantidade de itens de pedido (aproximação).md",
     "ERP/conceitos/Logs CT-e.md",
     "ERP/onde faz/Cálculo do ICMS de frete.md",
     "ERP/onde faz/Solicitar base de produção.md",
@@ -223,7 +237,6 @@
     "Pasted image 20250613113137.png",
     "daily/2025-07-29.md",
     "tasks/405726.md",
-    "daily/2025-06-13.md",
     "ERP/team",
     "ERP/business",
     "ERP/code",
