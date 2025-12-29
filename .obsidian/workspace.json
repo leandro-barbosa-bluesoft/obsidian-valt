@@ -25,12 +25,14 @@
             "id": "18219b7454b7e19e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-11-12 10.50.31.excalidraw.md"
+                "file": "ERP/conceitos/Chave temporária em Postgres.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-12 10.50.31.excalidraw"
+              "icon": "lucide-file",
+              "title": "Chave temporária em Postgres"
             }
           }
         ],
@@ -205,8 +207,8 @@
   },
   "active": "18219b7454b7e19e",
   "lastOpenFiles": [
-    "ERP/sqls/Tabelas Temporárias no Postgres.md",
     "Excalidraw/Drawing 2025-11-12 10.50.31.excalidraw.md",
+    "ERP/sqls/Tabelas Temporárias no Postgres.md",
     "ERP/sqls/Top N por quantidade de itens de pedido (aproximação).md",
     "ERP/conceitos/Logs CT-e.md",
     "ERP/onde faz/Cálculo do ICMS de frete.md",
