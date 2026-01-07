@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "06d9ecd9e8cdf8ef",
+        "id": "76c95c98d8a28aad",
         "type": "tabs",
         "children": [
           {
-            "id": "8647fe672034dcf6",
+            "id": "a61ee4540f08e2b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ERP/sqls/Tabelas Temporárias no Postgres.md",
+                "file": "ERP/onde faz/Acessar resumo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tabelas Temporárias no Postgres"
-            }
-          },
-          {
-            "id": "18219b7454b7e19e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ERP/conceitos/Chave temporária em Postgres.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chave temporária em Postgres"
+              "title": "Acessar resumo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,10 +190,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "18219b7454b7e19e",
+  "active": "a61ee4540f08e2b8",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-11-12 10.50.31.excalidraw.md",
+    "ERP/onde faz/Acessar resumo.md",
     "ERP/sqls/Tabelas Temporárias no Postgres.md",
+    "ERP/conceitos/Chave temporária em Postgres.md",
+    "Excalidraw/Drawing 2025-11-12 10.50.31.excalidraw.md",
     "ERP/sqls/Top N por quantidade de itens de pedido (aproximação).md",
     "ERP/conceitos/Logs CT-e.md",
     "ERP/onde faz/Cálculo do ICMS de frete.md",
@@ -223,7 +210,6 @@
     "ERP/sqls",
     "ERP/conceitos/Como Testar e Validar o LOCK em tabelas.md",
     "ERP/conceitos/Como o sistema faz o de-para do item do XML para o produto do ERP.md",
-    "ERP/conceitos/Chave temporária em Postgres.md",
     "ERP/conceitos/Figura Fiscal vs. Regra Fiscal.md",
     "ERP/onde faz",
     "ERP/conceitos",
@@ -238,7 +224,6 @@
     "Pasted image 20250613113209.png",
     "Pasted image 20250613113137.png",
     "daily/2025-07-29.md",
-    "tasks/405726.md",
     "ERP/team",
     "ERP/business",
     "ERP/code",
