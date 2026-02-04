@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ERP/prompts/Otimização objeto-consulta.md",
+                "file": "ERP/prompts/Teste de integração.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Otimização objeto-consulta"
+              "title": "Teste de integração"
             }
           }
         ]
@@ -192,8 +192,8 @@
   },
   "active": "a61ee4540f08e2b8",
   "lastOpenFiles": [
-    "ERP/prompts/Teste de integração.md",
     "ERP/prompts/Otimização objeto-consulta.md",
+    "ERP/prompts/Teste de integração.md",
     "ERP/sqls/Tabelas Temporárias no Postgres.md",
     "ERP/prompts",
     "ERP/onde faz/Acessar resumo.md",
