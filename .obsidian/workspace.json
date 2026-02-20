@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ERP/prompts/Teste de integração.md",
+                "file": "ERP/prompts/Resumo para começar de novo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teste de integração"
+              "title": "Resumo para começar de novo"
             }
           }
         ]
@@ -192,8 +192,9 @@
   },
   "active": "a61ee4540f08e2b8",
   "lastOpenFiles": [
-    "ERP/prompts/Otimização objeto-consulta.md",
     "ERP/prompts/Teste de integração.md",
+    "ERP/prompts/Resumo para começar de novo.md",
+    "ERP/prompts/Otimização objeto-consulta.md",
     "ERP/sqls/Tabelas Temporárias no Postgres.md",
     "ERP/prompts",
     "ERP/onde faz/Acessar resumo.md",
@@ -221,7 +222,6 @@
     "tasks/378496.md",
     "ERP/team/Fernando.md",
     "daily/2025-02-28.md",
-    "daily/2025-02-27.md",
     "Pasted image 20250613113241.png",
     "Pasted image 20250613113209.png",
     "Pasted image 20250613113137.png",
