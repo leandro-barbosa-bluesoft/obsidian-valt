@@ -6,4 +6,4 @@ Utilize o guideline erp-integration-tests/.junie/erp-integration-tests-guideline
 
 Nunca execute todo o módulo de testes (exemplo: Run test /home/leandro.barbosa/dev/erp/erp-integration-tests) pois isso demora horas para finalizar, ao invés disso, execute APENAS a classe de testes que você está criando ou alterando.
 
-Execute o teste de integração com gradle, nunca com junit puro
+Execute o teste de integração com gradle
