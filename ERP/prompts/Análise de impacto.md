@@ -1,0 +1,1 @@
+Execute a análise de impacto da correção do bug. Um detalhe importante é que não podemos deixar riscos médio ou alto, caso encontre, só deve postar o comentário após mitiga-los, seja resolvendo um possível bug ou gerando testes para invalidar sua hipótese. Após todos os riscos baixos, poste o comentário com a análise de impacto no ticket.
