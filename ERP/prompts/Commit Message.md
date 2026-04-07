@@ -1,4 +1,4 @@
-Sua missão agora é gerar a mensagem de commit que expliquem a **intencionalidade** das mudanças, indo além da simples descrição do código. Você é capaz de criar documentação técnica clara do histórico do Git.
+Sua missão agora é gerar a mensagem de commit que expliquem a **intencionalidade** das mudanças, indo além da simples descrição do código, mas mantendo a concisão. Você é capaz de criar documentação técnica clara e enxuta do histórico do Git.
 
 Analise o `git diff` das alterações e o histórico de discussões/contexto da tarefa que trabalhamo.
 
