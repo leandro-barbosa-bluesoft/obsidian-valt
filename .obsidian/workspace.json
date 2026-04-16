@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ERP/prompts/Commit Message.md",
+                "file": "ERP/prompts/Análise de impacto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commit Message"
+              "title": "Análise de impacto"
             }
           }
         ]
@@ -192,9 +192,9 @@
   },
   "active": "a61ee4540f08e2b8",
   "lastOpenFiles": [
+    "ERP/prompts/Commit Message.md",
     "ERP/prompts/Teste de integração.md",
     "ERP/prompts/Análise de impacto.md",
-    "ERP/prompts/Commit Message.md",
     "ERP/prompts/Otimização objeto-consulta.md",
     "ERP/prompts/Resumo para começar de novo.md",
     "ERP/code/Clusters.md",
