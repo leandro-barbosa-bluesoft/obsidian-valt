@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ERP/sqls/Comprador pedido-linha de compra.md",
+                "file": "ERP/prompts/Commit Message.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comprador pedido-linha de compra"
+              "title": "Commit Message"
             }
           }
         ]
@@ -192,8 +192,8 @@
   },
   "active": "a61ee4540f08e2b8",
   "lastOpenFiles": [
-    "ERP/prompts/Commit Message.md",
     "ERP/sqls/Comprador pedido-linha de compra.md",
+    "ERP/prompts/Commit Message.md",
     "ERP/sqls/Tabelas Temporárias no Postgres.md",
     "ERP/prompts/Análise de impacto.md",
     "ERP/conceitos/Chave temporária em Postgres.md",
