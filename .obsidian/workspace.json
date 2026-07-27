@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ERP/prompts/Commit Message.md",
+                "file": "ERP/prompts/Descrição solução bug.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commit Message"
+              "title": "Descrição solução bug"
             }
           }
         ]
@@ -192,8 +192,8 @@
   },
   "active": "a61ee4540f08e2b8",
   "lastOpenFiles": [
-    "ERP/prompts/Descrição solução bug.md",
     "ERP/prompts/Commit Message.md",
+    "ERP/prompts/Descrição solução bug.md",
     "ERP/prompts/Análise de impacto.md",
     "ERP/prompts/Otimização objeto-consulta.md",
     "ERP/sqls/Comprador pedido-linha de compra.md",
