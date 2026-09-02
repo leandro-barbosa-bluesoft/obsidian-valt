@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ERP/prompts/Commit Message.md",
+                "file": "ERP/prompts/Descrição solução bug.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commit Message"
+              "title": "Descrição solução bug"
             }
           }
         ]
@@ -194,13 +194,13 @@
   },
   "active": "a61ee4540f08e2b8",
   "lastOpenFiles": [
+    "ERP/prompts/Commit Message.md",
     "ERP/code/Clusters.md",
     "ERP/conceitos/Logs CT-e.md",
     "ERP/conceitos/Figura Fiscal vs. Regra Fiscal.md",
     "ERP/conceitos/Como Testar e Validar o LOCK em tabelas.md",
     "ERP/conceitos/Como o sistema faz o de-para do item do XML para o produto do ERP.md",
     "ERP/conceitos/Chave temporária em Postgres.md",
-    "ERP/prompts/Commit Message.md",
     "ERP/prompts/Descrição solução bug.md",
     "ERP/prompts/Análise de impacto.md",
     "ERP/prompts/Otimização objeto-consulta.md",
